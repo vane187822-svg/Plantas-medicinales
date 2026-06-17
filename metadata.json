@@ -1,0 +1,6 @@
+{
+  "name": "Clima y Siembra de Plantas Medicinales",
+  "description": "Aplicación para el seguimiento y recomendaciones de siembra de plantas medicinales basado en el clima, ubicación, fases lunares y cuidado óptimo del huerto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
